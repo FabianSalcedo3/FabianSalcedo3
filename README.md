@@ -1,16 +1,12 @@
-### Hi there 👋
+## About me
 
-<!--
-**FabianSalcedo3/FabianSalcedo3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🚀 Hi there, I'm **Fabian**, a passionate software developer with a love for **coding adventures**!
+Welcome to my *GitHub* profile!
+Here you can find snippets of my
+- **Work**
+- **Ideas**
+- **Story**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm studying everyday new solutions to my future and chatGPT is not helping..
+Jokes aside, when i'm not coding you can find me playing Basketball 🏀 at the court and surfing 🏄 at the beach. 
+#### 🤝  Let's connect and share our coding adventures together!
