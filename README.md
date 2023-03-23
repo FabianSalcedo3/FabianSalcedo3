@@ -10,3 +10,4 @@ Here you can find snippets of my
 I'm studying everyday new solutions to my future and chatGPT is not helping..
 Jokes aside, when i'm not coding you can find me playing Basketball 🏀 at the court and surfing 🏄 at the beach. 
 #### 🤝  Let's connect and share our coding adventures together!
+(the man in the profile pic it's not me, that's my son)
